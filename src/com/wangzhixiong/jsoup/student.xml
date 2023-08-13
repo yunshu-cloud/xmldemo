@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student id="baizhan_0001">
+        <name english="bz">baizhan</name>
+        <age class="aa">10</age>
+        <sex>male</sex>
+    </student>
+    <student id="baizhan_0002">
+        <name english="sx">sxt</name>
+        <age>11</age>
+        <sex>female</sex>
+    </student>
+</students>
