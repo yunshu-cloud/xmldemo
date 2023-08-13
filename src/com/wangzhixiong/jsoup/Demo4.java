@@ -8,6 +8,9 @@ import org.jsoup.select.Elements;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * Element可以获取元素内的数据
+ */
 public class Demo4
 {
   // Document

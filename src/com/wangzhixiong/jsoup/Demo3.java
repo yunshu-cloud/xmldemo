@@ -8,6 +8,9 @@ import org.jsoup.select.Elements;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * Document可以获取元素对象
+ */
 public class Demo3 {
   // Document
   public static void main(String[] args) throws IOException
